@@ -11,3 +11,5 @@ DETAILS OF DATASET : This is the file detailing about the stats of movies and al
 * Secondly it shows detailed stats of each decades with the total production budget against the revenue
 * Thirdly,it shows the most loved and acceptable genre by the public and how to navigate and feed the ever-hungry market,helping both the film makers and production companies to plan better,
 * Lastly,it shows total movies made and produced per rating by year or movie production companies depending on our preference and e.t.c
+
+TOOL USED : POWER BI
